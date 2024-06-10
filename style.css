@@ -32,6 +32,9 @@
     color: #bc0820;
    
 }
+#demo{
+color: rgb(4, 66, 66);
+}
 .logo:hover{
     color: #fff;
     text-shadow:
@@ -94,11 +97,11 @@ padding-right: calc(10% - 30px);
     background-color: rgb(212, 94, 114);
     border-radius: 30px;
     font-size: 16px;
-    color: white;
+    color: rgb(176, 130, 130);
 }
 .btn-H a{
 text-decoration: none;
-color: white;
+color: rgb(181, 144, 144);
 }
 .btn-box{
     height: 50px;
@@ -113,7 +116,7 @@ color: white;
     
 }
 .btn-box a button:hover{
-    color: #fff;
+    color: #927e7e;
     text-shadow:
         0 0 7px #fff,
         0 0 10px #fff,
